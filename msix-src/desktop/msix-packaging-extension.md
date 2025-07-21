@@ -4,7 +4,9 @@ title: MSIX Packaging Extension
 ms.date: 11/5/2020
 ms.topic: article
 keywords: msix, devops extension, packaging, CI/CD, Azure DevOps
-ms.custom: RS5
+ms.custom:
+  - RS5
+  - sfi-image-nochange
 ---
 
 # MSIX Packaging Extension

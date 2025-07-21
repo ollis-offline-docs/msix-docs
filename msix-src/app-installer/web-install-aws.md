@@ -4,7 +4,10 @@ description: Tutorial for setting up AWS web server to validate app install via 
 ms.date: 05/30/2018
 ms.topic: how-to
 keywords: windows 10, Windows 10, UWP, app installer, AppInstaller, sideload, related set, optional packages, AWS
-ms.custom: "RS5, seodec18"
+ms.custom:
+  - "RS5
+  - seodec18"
+  - sfi-image-nochange
 ---
 
 # Distribute a Windows 10 app from an AWS web service
