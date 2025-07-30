@@ -4,7 +4,9 @@ title: How to run scripts with the Package Support Framework to create an applic
 ms.date: 04/14/2021
 ms.topic: how-to
 keywords: windows 10, uwp, msix
-ms.custom: RS5
+ms.custom:
+  - RS5
+  - sfi-image-nochange
 ---
 
 # Create an application shortcut by running a script using Package Support Framework 
