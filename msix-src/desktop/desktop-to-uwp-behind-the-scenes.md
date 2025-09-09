@@ -1,7 +1,7 @@
 ---
 title: Understanding how packaged desktop apps run on Windows
 description: This topic provides a deep dive into how the OS behaves with packaged desktop apps.
-ms.date: 06/27/2023
+ms.date: 09/09/2025
 ms.topic: concept-article
 keywords: windows 11, windows 10, uwp, msix
 ms.assetid: a399fae9-122c-46c4-a1dc-a1a241e5547a
@@ -27,7 +27,7 @@ Universal Windows Platform (UWP) apps (`uap10:RuntimeBehavior="windowsApp"`) are
 And then the **uap10:TrustLevel** attribute (of the same **Application** element) determines whether or not your packaged app's process runs inside an app container.
 
 * A *full trust* app. Declared with `uap10:TrustLevel="mediumIL"`.
-* An *appContainer* app. Declared with `uap10:TrustLevel="appContainer"`. Runs in a lightweight app container (and is therefore isolated using file system and registry virtualization). For more info, see [MSIX appContainer apps](/windows/msix/msix-container).
+* An *appContainer* app. Declared with `uap10:TrustLevel="appContainer"`. Runs in a lightweight app container. For more info, see [MSIX appContainer apps](/windows/msix/msix-container).
 
 > [!IMPORTANT]
 > For more details, dependencies, and capability requirements, see the documentation for those two attributes in [Application](/uwp/schemas/appxpackage/uapmanifestschema/element-application). Also see [uap10 was introduced in Windows 10, version 2004 (10.0; Build 19041)](/uwp/schemas/appxpackage/uapmanifestschema/element-application#uap10-was-introduced-in-windows-10-version-2004-100-build-19041).
