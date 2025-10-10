@@ -28,7 +28,7 @@ To successfully follow this tutorial, you will need the following:
 Optional: [Starter Project](https://github.com/AppInstaller/MySampleWebApp) on GitHub. This is helpful if you don't an app package or web page to work with, but would still like to learn how to use this feature.
 
 ### Step 1 - Get an Azure subscription
-To get an Azure subscription, visit the [Azure account page](https://azure.microsoft.com/free/). For the purposes of this tutorial, you can use a free membership.
+To get an Azure subscription, visit the [Azure account page](https://azure.microsoft.com/pricing/purchase-options/azure-account?cid=msft_learn). For the purposes of this tutorial, you can use a free membership.
 
 ### Step 2 - Create an Azure Web App 
 In the Azure portal page, click the **+ Create a Resource** button and then select **Web App**
