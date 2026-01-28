@@ -4,6 +4,7 @@ title: Sign an MSIX package with Device Guard signing
 ms.date: 12/07/2022
 ms.topic: how-to
 keywords: windows 10, uwp, msix
+ms.custom: sfi-ga-nochange
 ---
 
 # Sign an MSIX package with Device Guard signing

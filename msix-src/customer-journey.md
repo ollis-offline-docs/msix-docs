@@ -3,7 +3,7 @@ title: Links to customer journeys
 description: Get links to articles that describe DB Systel, ECNO, MID, SAP, Schneider Electric, and Trend Micro MSIX customer journeys.
 author: andreww-msft
 ms.date: 05/11/2022
-ms.topic: landing-page
+ms.topic: concept-article
 keywords: windows 10, uwp, msix
 ms.custom: RS5, kr2b-contr-experiment
 ---

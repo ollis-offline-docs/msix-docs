@@ -1,12 +1,15 @@
 ---
 title: MSIX AppContainer apps
 description: This topic shows how you can take an app that's packaged using MSIX, and easily configure it to run in the AppContainer environment (in a lightweight app container).
-ms.date: 02/12/2025
+ms.date: 09/22/2025
 ms.topic: article
 keywords: windows 11, windows 10, winui3, uwp, msix
 --- 
 
 # MSIX AppContainer apps
+
+> [!IMPORTANT]
+> For any process running in the AppContainer, if you cause [DeploymentManager.Initialize](/windows/windows-app-sdk/api/winrt/microsoft.windows.applicationmodel.windowsappruntime.deploymentmanager.initialize) to be called, then your app needs to declare the `packageManagement` [restricted capability](/windows/uwp/packaging/app-capability-declarations#restricted-capabilities) in your [package manifest](/uwp/schemas/appxpackage/appx-package-manifest). For more details, see [The Deployment Manager auto-initializer](/windows/apps/package-and-deploy/project-properties#the-deployment-manager-auto-initializer).
 
 The topic [AppContainer for legacy applications](/windows/win32/secauthz/appcontainer-for-legacy-applications-) covers all of the necessary background info about what the AppContainer environment is and its benefits; that topic also contains C# and C++ code examples for testing whether or not a process is running inside an AppContainer.
 
