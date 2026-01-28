@@ -17,7 +17,7 @@ To get your app ready for bootstrapping with the MSIX Core installer, you’ll n
 
 ### Azure
 
-To use this option you must have an Azure subscription. To obtain one, see the [Azure account page](https://azure.microsoft.com/free/).
+To use this option you must have an Azure subscription. To obtain one, see the [Azure account page](https://azure.microsoft.com/pricing/purchase-options/azure-account?cid=msft_learn).
 
 #### Create an Azure Web App
 

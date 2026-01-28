@@ -4,7 +4,10 @@ description: This tutorial demonstrates how to set up an Azure web server, verif
 ms.date: 09/30/2018
 ms.topic: how-to
 keywords: windows 10, uwp, app installer, AppInstaller, sideload, related set, optional packages, Azure web server
-ms.custom: "RS5, seodec18"
+ms.custom:
+  - RS5
+  - seodec18
+  - sfi-image-nochange
 ---
 
 # Distribute a Windows 10 app from an Azure web app
@@ -25,7 +28,7 @@ To successfully follow this tutorial, you will need the following:
 Optional: [Starter Project](https://github.com/AppInstaller/MySampleWebApp) on GitHub. This is helpful if you don't an app package or web page to work with, but would still like to learn how to use this feature.
 
 ### Step 1 - Get an Azure subscription
-To get an Azure subscription, visit the [Azure account page](https://azure.microsoft.com/free/). For the purposes of this tutorial, you can use a free membership.
+To get an Azure subscription, visit the [Azure account page](https://azure.microsoft.com/pricing/purchase-options/azure-account?cid=msft_learn). For the purposes of this tutorial, you can use a free membership.
 
 ### Step 2 - Create an Azure Web App 
 In the Azure portal page, click the **+ Create a Resource** button and then select **Web App**

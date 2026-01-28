@@ -9,6 +9,7 @@ author:      fiza-azmi # GitHub alias
 ms.author:   fizaazmi # Microsoft alias
 ms.topic: article
 ms.date:     05/02/2023
+ms.custom: sfi-image-nochange
 ---
 
 # App Attach from Visual Studio

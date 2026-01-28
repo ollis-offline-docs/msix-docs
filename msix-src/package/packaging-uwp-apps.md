@@ -6,6 +6,7 @@ ms.date: 07/18/2019
 ms.topic: how-to
 keywords: windows 10, uwp, msix
 f1_keywords: ["vs.packagewizard",  "vs.storeassociationwizard"]
+ms.custom: sfi-image-nochange
 ---
 
 # Package a desktop or UWP app in Visual Studio
